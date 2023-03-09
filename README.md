@@ -4,4 +4,4 @@
 
 Учусь в [Нетологии](https://netology.ru)
 
-<image src="https://netology.ru/dist/public/89097e645ef271b8c7f2.svg " alt="Логотип Нетологии">
+<img src="https://netology.ru/dist/public/89097e645ef271b8c7f2.svg " alt="Логотип Нетологии">
